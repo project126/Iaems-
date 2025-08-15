@@ -1,0 +1,78 @@
+body{
+  background-color: lightgoldenrodyellow;
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+.text{
+  background-color: #eee;
+  
+  width: 400px; height: 300px;
+  border: 5px solid #ede;
+  margin-left: 40px;
+  padding: 10px;
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 70%;
+  border-radius: 40px;
+  text-align: center;
+  overflow: scroll;
+}
+.h1{
+  text-transform: uppercase;
+  color: royalblue;
+  text-align: center;
+  margin-top: 20px; 
+  font-size: 25px;
+  text-transform: uppercase;
+  text-align: center;
+}
+.form{
+  background-color: #fdfdfd;
+  background-size: 100% 100%;
+  background-position: center bottom;
+  border: 10px solid royalblue;
+  border-radius: 40px;
+  text-align: center;
+  margin-top: 60%;
+} 
+.input{
+  background-color: #eee;
+  background-size: 100% 100%;
+  border: 10px solid #eee;
+  border-radius:  7px;
+  margin-top: 10px;
+  margin-bottom: 5px;
+  margin-left: 30px;
+  text-align: center;
+  font-size: 20px;
+  height: 50px;
+  margin: 10px 20px 10px 20px;
+width: 250px;
+  
+}
+.input:focus{
+  border: 5px solid lightskyblue;
+  border-radius: 7px;
+  outline: none;
+  text-align: center;
+}
+.uploud{
+  background-color: lightsteelblue;
+  border: 10px unset lightsteelblue;
+  border-radius: 20px;
+}
+.blogin{
+  background-color: royalblue;
+  background-size: 100px 100px;
+  background-position: center;
+  color: white;
+  font-size: 15px;
+  text-align: center;
+  text-transform: capitalize;
+  border: 10px solid royalblue;
+  border-radius: 7px;
+margin-top: 10px;
+margin-bottom: 10px;
+width: fit-content;
+}

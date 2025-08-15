@@ -1,0 +1,33 @@
+body{
+  background-color: lightgoldenrodyellow;
+}
+div{
+  background-color: #eee;
+  color: cadetblue;
+  padding: 10px;
+  border: 10px solid red;
+  border-radius: 45px;
+  margin-top: 20%;
+  text-align: center;
+  direction: rtl;
+}
+h3{
+  color: dodgerblue;
+  font-size: 30px;
+  text-align: center;
+}
+.footer{
+  background-color: #eee;
+  background-size: 100%;
+  background-position: center;
+  border-radius: 50% solid black;
+}
+.link{
+  text-decoration: none;
+  text-align: center;
+  font-size: 20px;
+}
+.link:nover{
+  color: red;
+  text-decoration: underline;
+}

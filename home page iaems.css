@@ -1,0 +1,157 @@
+body{
+  background-color: lavender;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  text-align: center;
+}
+.header{
+  
+}
+.link{
+  border-width: 5px;
+  border-bottom: 5px solid dodgerblue;
+  border-radius: 40px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  margin-left: 5px;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.name{
+  background-color: #eee;
+  background-size: 100% 100%;
+  background-position: center top;
+  color: steelblue;
+  font-size: 20px;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 10px;
+  margin-top: 2px;
+  margin-bottom: 10px;
+  border: 10px solid #eee;
+  border-bottom:  10px solid red;
+  border-radius: 40px;
+  position: sticky;
+  top: 0px;
+}
+.header{
+  background-color: white;
+  background-position: center bottom;
+  background-size: 100px 100px;
+  width: fit-content;
+  padding: 5px;
+  border: 10px solid dodgerblue;
+  border-radius: 40px;
+  text-align: center;
+}
+.media{
+  border-bottom-color: red;
+  color: red;
+}
+.bas{
+  border-bottom-color: blue;
+  color: blue;
+}
+.eng{
+  border-bottom-color: dodgerblue;
+  color: dodgerblue;
+}
+.media,
+.bas,
+.eng{
+  background-color: gainsboro;
+  background-size: 50% 50%;
+  background-position: center;
+  font-size: 12px;
+  padding: 2px;
+  border-bottom: 10px solid;
+  border-radius: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  margin-bottom: 10px;
+  padding: 10px;
+  text-align: center;
+  direction: rtl;
+}
+.info{
+  background-color: white;
+  border-bottom: 10px solid dodgerblue;
+  border-radius: 40px;
+  color: dodgerblue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: auto;
+  text-align: center;
+  direction: rtl;
+  line-height: 1.7;
+  position: sticky;
+  top: 0px;
+}
+.linkfo{
+  border-bottom: 5px solid dodgerblue;
+  
+  border-radius: 20px;
+  text-decoration: none;
+}
+.desi{
+  color: red;
+  font-size: 20px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  text-transform: capitalize;
+  direction: ltr;
+  text-align: center;
+}
+.myname{
+  color: dodgerblue;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+.h3fo{
+  color: dodgerblue;
+  font-size: 20px;
+  text-align: center;
+  text-transform: capitalize;
+}
+.linkfo{
+border-width: 5px;
+  border-bottom: 5px solid dodgerblue;
+  color: dodgerblue;
+  border-radius: 40px;
+  text-decoration: none;
+  text-align: center;
+  display: inline-block;
+  margin-left: 5px;
+  margin-bottom: 5px;
+  font-size: 25px;
+  text-transform: uppercase;
+  line-height: 1.7;
+} 
+.footer{
+  background-color: white;
+  background-position: center bottom;
+  background-size: 100px 100px;
+  padding: 5px;
+  border-bottom: 10px solid dodgerblue;
+  border-radius: 40px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+.iaems-fo,
+.iaems-copy-fo{
+  color: royalblue;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.up{
+  background-color: red;
+  color: white;
+  border: 5px solid red;
+  border-radius: 15px;
+  position: fixed;
+  right: 10px;
+  bottom: 10px;
+  text-decoration: none;
+}
